@@ -1,0 +1,18 @@
+current directory: /Users/labern/Developer/Rails/demo/path/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/labern/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/labern/Developer/Rails/demo/path/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241115-33246-e9atd2 sitelibdir\=./.gem.20241115-33246-e9atd2 clean
+
+current directory: /Users/labern/Developer/Rails/demo/path/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241115-33246-e9atd2 sitelibdir\=./.gem.20241115-33246-e9atd2
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/labern/Developer/Rails/demo/path/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241115-33246-e9atd2 sitelibdir\=./.gem.20241115-33246-e9atd2 install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20241115-33246-e9atd2/racc
+
+current directory: /Users/labern/Developer/Rails/demo/path/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241115-33246-e9atd2 sitelibdir\=./.gem.20241115-33246-e9atd2 clean
